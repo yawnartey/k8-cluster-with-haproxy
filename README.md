@@ -3,5 +3,7 @@
  
  MasterNode-1  
  MasterNode-2  
-WorkerNode-1  
- HAProxy
+ WorkerNode-1  
+ HAProxy  
+
+ This project will use Terraform as IaC to setup and deploy our AWS resources
